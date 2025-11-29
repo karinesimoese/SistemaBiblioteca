@@ -1,6 +1,6 @@
 # 📚 Sistema de Gerenciamento de Biblioteca (Java + Maven)
 
-Projeto desenvolvido como parte da disciplina de Programação Orientada a Objetos (POO).
+Projeto desenvolvido como parte da disciplina de Programação II. 
 
 ---
 
