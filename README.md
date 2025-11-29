@@ -4,7 +4,7 @@ Projeto desenvolvido como parte da disciplina de Programação Orientada a Objet
 
 ---
 
-## ✨ Avaliação e Requisitos Atendidos
+## ✨ Requisitos!
 
 Este projeto demonstra a aplicação dos seguintes conceitos fundamentais:
 
