@@ -1,6 +1,4 @@
-# 📚 Sistema de Gerenciamento de Biblioteca (Java + Maven)
-
-Projeto desenvolvido como parte da disciplina de Programação II. 
+# 📚 Sistema de Gerenciamento de Biblioteca (Java + Maven) 
 
 ---
 
